@@ -1,0 +1,7 @@
+sample,path
+ls_gfp_pos,/athena/melnicklab/users/scratch/chc2077/ls_multiome/GFP_Pos/ls_gfp_pos/outs
+ls_gfp_neg,/athena/melnicklab/users/scratch/chc2077/ls_multiome/GFP_Neg/ls_gfp_neg/outs
+gcb1,/athena/melnicklab/users/scratch/chc2077/20210405_Multiome_MycGFP_GCB/cellranger/gcb1/outs
+gcb2,/athena/melnicklab/users/scratch/chc2077/20210405_Multiome_MycGFP_GCB/cellranger/gcb2/outs
+gcb3,/athena/melnicklab/users/scratch/chc2077/20210405_Multiome_MycGFP_GCB/cellranger/gcb3/outs
+gcb4,/athena/melnicklab/users/scratch/chc2077/20210405_Multiome_MycGFP_GCB/cellranger/gcb4/outs
