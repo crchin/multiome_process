@@ -289,8 +289,9 @@ combined.msobj <- LinkPeaks(
 )
 
 print("Saving Combined multiome object to")
-print(file.path(getwd(), "work", "integrated.multiome.sobj.Rdata"))
+# print(file.path(getwd(), "work", "combined.multiome.sobj.Rdata"))
+print(file.path(getwd(), "work", "combined.multiome.sobj.rds"))
 
-save(combined.msobj, file = "work/integrated.multiome.sobj.Rdata")
+# save(combined.msobj, file = "work/integrated.multiome.sobj.Rdata")
 saveRDS(combined.msobj, file = "work/integrated.multiome.sobj.rds")
 print("Combined multiome signac object saved!")
