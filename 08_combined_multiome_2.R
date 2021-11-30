@@ -6,7 +6,7 @@
 
 # 08 multiome combine peaks and RNA
 
-# Load and integrate single cell data from runsheet
+# Load and combine single cell data from runsheet
 # Included if portions so analysis can be restarted
 
 # Packages to install
