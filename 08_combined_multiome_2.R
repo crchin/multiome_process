@@ -293,5 +293,5 @@ print("Saving Combined multiome object to")
 print(file.path(getwd(), "work", "combined.multiome.sobj.rds"))
 
 # save(combined.msobj, file = "work/integrated.multiome.sobj.Rdata")
-saveRDS(combined.msobj, file = "work/integrated.multiome.sobj.rds")
+saveRDS(combined.msobj, file = "work/combined.multiome.sobj.rds")
 print("Combined multiome signac object saved!")
