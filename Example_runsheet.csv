@@ -1,0 +1,15 @@
+Sample,sobj_path,Experiment,Genotype
+ls_gfp_pos,/athena/melnicklab/users/scratch/chc2077/ls_multiome/GFP_Pos/ls_gfp_pos/ls_gfp_posseurat.velocyto.Rdata,ls_gfpmyc,WT
+ls_gfp_neg,/athena/melnicklab/users/scratch/chc2077/ls_multiome/GFP_Neg/ls_gfp_neg/ls_gfp_negseurat.velocyto.Rdata,ls_gfpmyc,WT
+sample_1,/athena/melnicklab/users/scratch/chc2077/scMulti/sample_1/DM_1/sample_1seurat.velocyto.Rdata,Ezh2_multiome,WT
+sample_2,/athena/melnicklab/users/scratch/chc2077/scMulti/sample_2/DM_2/sample_2seurat.velocyto.Rdata,Ezh2_multiome,Bcl2
+sample_3,/athena/melnicklab/users/scratch/chc2077/scMulti/sample_3/DM_3/sample_3seurat.velocyto.Rdata,Ezh2_multiome,Ezh2
+sample_4,/athena/melnicklab/users/scratch/chc2077/scMulti/sample_4/DM_4/sample_4seurat.velocyto.Rdata,Ezh2_multiome,Kmt2d
+sample_5,/athena/melnicklab/users/scratch/chc2077/scMulti/sample_5/DM_5/sample_5seurat.velocyto.Rdata,Ezh2_multiome,Bcl2_Ezh2
+sample_6,/athena/melnicklab/users/scratch/chc2077/scMulti/sample_6/DM_6/sample_6seurat.velocyto.Rdata,Ezh2_multiome,Bcl2_Kmt2d
+sample_7,/athena/melnicklab/users/scratch/chc2077/scMulti/sample_7/DM_7/sample_7seurat.velocyto.Rdata,Ezh2_multiome,Ezh2_Kmt2d
+sample_8,/athena/melnicklab/users/scratch/chc2077/scMulti/sample_8/DM_8/sample_8seurat.velocyto.Rdata,Ezh2_multiome,Bcl2_Ezh2_Kmt2d
+gcb1,/athena/melnicklab/users/scratch/chc2077/20210405_Multiome_MycGFP_GCB/cellranger/gcb1/gcb1seurat.velocyto.Rdata,Alexia_gcb,WT
+gcb2,/athena/melnicklab/users/scratch/chc2077/20210405_Multiome_MycGFP_GCB/cellranger/gcb2/gcb2seurat.velocyto.Rdata,Alexia_gcb,WT
+gcb3,/athena/melnicklab/users/scratch/chc2077/20210405_Multiome_MycGFP_GCB/cellranger/gcb3/gcb3seurat.velocyto.Rdata,Alexia_gcb,WT
+gcb4,/athena/melnicklab/users/scratch/chc2077/20210405_Multiome_MycGFP_GCB/cellranger/gcb4/gcb4seurat.velocyto.Rdata,Alexia_gcb,WT
