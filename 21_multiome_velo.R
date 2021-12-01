@@ -34,12 +34,12 @@ print("Loading runsheet")
 runsheet <- fread(runsheet.path, header = T)
 # Match runsheet column names
 # Path is to cellranger arc outs folder
-if (all(colnames(runsheet) == c("sample","path")) == F){
-  print("Runsheet colnames do not match")
+if (all(c("Sample", "sobj_path") %in% colnames(runsheet)) == T){
+  print("Sample and sobj_path column names not found")
   stop()
 }else{print("Runsheet accepted!")}
 
-samples <- runsheet$sample
+samples <- runsheet$Sample
 
 # Load remaining libraries
 library(future)
