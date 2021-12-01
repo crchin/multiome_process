@@ -3,6 +3,16 @@ Process and integrate 10x Multiome Data
 
 The following scripts should be used in this order to process the multiome data:
 
+# Create signac environment and install packages if needed
+
+Create conda environment with this yml
+
+[environment_signac.yml](https://github.com/crchin/multiome_process/blob/main/environment_signac.yml)
+
+Install packages in R (within the conda environment) as needed
+
+[99_install_signac_packages.R](https://github.com/crchin/multiome_process/blob/main/99_install_signac_packages.R)
+
 # Create multiome object on cluster from cellranger output path individually (optional)
 [01_multiome_signac.R](https://github.com/crchin/multiome_process/blob/main/01_multiome_signac.R)
 
